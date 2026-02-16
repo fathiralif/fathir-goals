@@ -1,2 +1,2 @@
 # fathir-goals
-ini adalah latihan pertama saya ,bertemakan goals masa depan saya
+Ini adalah latihan Repository pertama saya ,bertemakan goals masa depan saya
